@@ -1,0 +1,5 @@
+2020/01/06-20:51:44.586 3e50 Reusing MANIFEST C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.delijn.be_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/06-20:51:52.504 436c Level-0 table #5: started
+2020/01/06-20:51:52.564 436c Level-0 table #5: 527 bytes OK
+2020/01/06-20:51:52.604 436c Delete type=0 #3
+2020/01/06-20:51:52.605 436c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

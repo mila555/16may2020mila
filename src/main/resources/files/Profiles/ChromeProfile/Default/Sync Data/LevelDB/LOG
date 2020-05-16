@@ -1,0 +1,6 @@
+2020/01/23-09:02:52.144 2310 Reusing MANIFEST C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/MANIFEST-000001
+2020/01/23-09:02:52.145 2310 Recovering log #1049
+2020/01/23-09:02:52.145 2310 Reusing old log C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/001049.log 
+2020/01/23-09:44:18.970 25a8 Level-0 table #1053: started
+2020/01/23-09:44:19.047 25a8 Level-0 table #1053: 84774 bytes OK
+2020/01/23-09:44:19.090 25a8 Delete type=0 #1049

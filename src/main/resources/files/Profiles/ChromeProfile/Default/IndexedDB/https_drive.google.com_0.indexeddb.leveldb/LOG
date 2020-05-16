@@ -1,0 +1,6 @@
+2019/12/22-21:26:25.744 3658 Reusing MANIFEST C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/22-21:26:25.745 3658 Recovering log #23
+2019/12/22-21:26:25.749 3658 Reusing old log C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/000023.log 
+2019/12/22-21:26:31.929 ed0 Level-0 table #30: started
+2019/12/22-21:26:32.135 ed0 Level-0 table #30: 3551631 bytes OK
+2019/12/22-21:26:32.161 ed0 Delete type=0 #23

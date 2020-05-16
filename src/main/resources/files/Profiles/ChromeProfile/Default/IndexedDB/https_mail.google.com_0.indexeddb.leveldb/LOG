@@ -1,0 +1,6 @@
+2020/01/22-20:18:21.384 3654 Reusing MANIFEST C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/22-20:18:21.408 3654 Recovering log #97
+2020/01/22-20:18:22.681 3654 Reusing old log C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000097.log 
+2020/01/22-20:18:36.565 3ef0 Level-0 table #102: started
+2020/01/22-20:18:36.769 3ef0 Level-0 table #102: 1594062 bytes OK
+2020/01/22-20:18:36.870 3ef0 Delete type=0 #97

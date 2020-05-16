@@ -1,0 +1,21 @@
+2020/01/03-22:58:26.712 2d28 Reusing MANIFEST C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/03-22:58:26.712 2d28 Recovering log #30
+2020/01/03-22:58:26.717 2d28 Reusing old log C:\Users\Sharmila\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/000030.log 
+2020/01/03-23:02:19.071 3424 Level-0 table #35: started
+2020/01/03-23:02:19.259 3424 Level-0 table #35: 3124333 bytes OK
+2020/01/03-23:02:19.299 3424 Delete type=0 #30
+2020/01/03-23:10:09.968 3424 Compacting 1@1 + 1@2 files
+2020/01/03-23:10:10.009 3424 Generated table #36@1: 37 keys, 15627 bytes
+2020/01/03-23:10:10.009 3424 Compacted 1@1 + 1@2 files => 15627 bytes
+2020/01/03-23:10:10.037 3424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/01/03-23:10:10.038 3424 Delete type=2 #32
+2020/01/03-23:10:10.038 3424 Delete type=2 #35
+2020/01/03-23:26:37.672 3424 Level-0 table #38: started
+2020/01/03-23:26:37.863 3424 Level-0 table #38: 2892473 bytes OK
+2020/01/03-23:26:37.914 3424 Delete type=0 #34
+2020/01/03-23:28:34.978 3424 Compacting 1@1 + 1@2 files
+2020/01/03-23:28:35.004 3424 Generated table #39@1: 37 keys, 14412 bytes
+2020/01/03-23:28:35.004 3424 Compacted 1@1 + 1@2 files => 14412 bytes
+2020/01/03-23:28:35.019 3424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/01/03-23:28:35.019 3424 Delete type=2 #36
+2020/01/03-23:28:35.019 3424 Delete type=2 #38
